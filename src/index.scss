@@ -1,0 +1,63 @@
+@media (min-width: 576px) {
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+}
+@media (max-width: 1100px) {
+  .widget-img {
+    width: 150px !important;
+    height: 150px !important;
+  }
+  .boxed_btn_rev,
+  .boxed_btn {
+    padding: 10px 42px !important;
+  }
+}
+
+/* // Large devices (desktops, 992px and below) */
+@media (max-width: 901px) {
+  .widget-img {
+    width: 100px !important;
+    height: 100px !important;
+  }
+  .mar-no {
+    font-size: 100%;
+  }
+  .profile-card {
+    margin-left: -40%;
+    width: 200rem !important;
+    padding: 10% !important;
+  }
+}
+
+@media (max-width: 701px) {
+  .nav-item {
+    margin: 1% !important;
+  }
+}
+@media only screen and (max-width: 767px) and (min-width: 576px) {
+  .popup_box {
+    width: 420px !important;
+    padding: 45px 30px;
+    margin-top: 20%;
+  }
+}
+
+@media (max-width: 767px) {
+  .popup_box {
+    width: 320px;
+    padding: 45px 30px;
+    margin-top: 20%;
+  }
+}
+/* // Extra large devices (large desktops, 1200px and below) */
+
+@media (max-width: 992px) {
+  .small-nav {
+    display: block;
+  }
+}
+.full-ground{
+  height: 100vh;
+}

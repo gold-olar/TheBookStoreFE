@@ -1,0 +1,13 @@
+.dashboard-nav-link {
+    display: block;
+    padding: 3% !important;
+    color: #04D2C8;
+    font-weight: 400;
+    border-bottom: .5px solid #04D2C8 ;
+    margin-top: 2px;
+    cursor: pointer;
+}
+.active-nav, .dashboard-nav-link:hover{
+    background-color: #04D2C8;
+    color: #fff;
+}
