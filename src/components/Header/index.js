@@ -1,18 +1,22 @@
-import React from 'react';
-import illustration from "../../assets/img/landing_illus.png"
-import './styles.scss';
-
+import React from "react";
+import Img from "react-cool-img";
+import illustration from "../../assets/img/landing_illus.png";
+import "./styles.scss";
 
 const Header = () => {
-    return ( 
-        <>
-        <div className="slider_area ">
+  return (
+    <>
+      <div className="slider_area ">
         <div className="single_slider d-flex align-items-center justify-content-center slider_bg_1">
           <div className="container">
             <div className="row align-items-center justify-content-center">
               <div className="col-xl-6 col-md-6">
                 <div className="illastrator_png">
-                  <img src={illustration} alt="headpic" />
+                  <Img
+                    style={{ backgroundColor: "grey" }}
+                    src={illustration}
+                    alt="headpic"
+                  />
                 </div>
               </div>
               <div className="col-xl-6 col-md-6">
@@ -28,8 +32,8 @@ const Header = () => {
           </div>
         </div>
       </div>
-        </>
-     );
-}
- 
+    </>
+  );
+};
+
 export default Header;

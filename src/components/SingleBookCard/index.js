@@ -1,4 +1,5 @@
 import React from "react";
+import Img from 'react-cool-img';
 
 const SingleBookCard = ({
   title,
@@ -17,7 +18,7 @@ const SingleBookCard = ({
 
       <div className="card mb-3">
         <div className="container text-center my-auto">
-        <img style={{ height: "300px", width:"100%" }} src={imageUrl} alt="Course Img" />
+        <Img style={{ height: "300px", width:"100%", background:'grey' }} src={imageUrl} alt="Course Img" />
         </div>
         <div className="card-body text-center">
         <h5 className="card-title">{title}</h5>

@@ -1,4 +1,5 @@
 import React from "react";
+import Img from 'react-cool-img';
 import { Link } from "react-router-dom";
 
 
@@ -19,10 +20,11 @@ const BookCard = ({
         <div style={{ maxHeight: "800px" }} className="single_courses">
           <div className="thumb">
             <Link to={`/books/${bookIndexRange}/${category}/${id}`}>
-              <img
+            <Img
                 style={{ maxHeight: "200px" }}
                 src={imageUrl}
                 alt="Course Img"
+                style={{ backgroundColor: 'grey' }}
               />
             </Link>
           </div>
