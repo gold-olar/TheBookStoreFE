@@ -1941,7 +1941,7 @@ h3 {
 .popular_courses .single_courses .courses_info .star_prise .star span {
   font-weight: 400;
   font-size: 14px;
-  color: #919191;
+  color: #333;
 }
 
 /* line 88, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_popular_courses.scss */
@@ -2009,7 +2009,7 @@ h3 {
   font-weight: 500;
   padding: 30px 0;
   font-size: 16px;
-  color: #919191;
+  color: #333;
 }
 
 @media (max-width: 767px) {

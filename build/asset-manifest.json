@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.2179d115.chunk.css",
-    "main.js": "/static/js/main.bd411fb5.chunk.js",
+    "main.js": "/static/js/main.cc090750.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.e2c85787.js",
     "static/css/2.01a8e625.chunk.css": "/static/css/2.01a8e625.chunk.css",
-    "static/js/2.c37a15b0.chunk.js": "/static/js/2.c37a15b0.chunk.js",
+    "static/js/2.eae33d12.chunk.js": "/static/js/2.eae33d12.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.4080c7d216a209ec8ed4f45249cee173.js": "/precache-manifest.4080c7d216a209ec8ed4f45249cee173.js",
+    "precache-manifest.d139a5f1d9575f867e06caa6e0c04f56.js": "/precache-manifest.d139a5f1d9575f867e06caa6e0c04f56.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.c37a15b0.chunk.js.LICENSE.txt": "/static/js/2.c37a15b0.chunk.js.LICENSE.txt",
+    "static/js/2.eae33d12.chunk.js.LICENSE.txt": "/static/js/2.eae33d12.chunk.js.LICENSE.txt",
     "static/media/styles.scss": "/static/media/footer_bg.8eb61905.png",
     "static/media/landing_illus.png": "/static/media/landing_illus.7669c5f4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e2c85787.js",
     "static/css/2.01a8e625.chunk.css",
-    "static/js/2.c37a15b0.chunk.js",
+    "static/js/2.eae33d12.chunk.js",
     "static/css/main.2179d115.chunk.css",
-    "static/js/main.bd411fb5.chunk.js"
+    "static/js/main.cc090750.chunk.js"
   ]
 }

@@ -12,7 +12,7 @@ const BooksNavigation = ({activeCategory, setActiveCategory}) => {
             <nav>
               <ul className="nav" id="myTab" role="tablist">
                 {categories.map((category) => (
-                  <li className="nav-item">
+                  <li className="nav-item text-black">
                     <Link
                       className={
                         activeCategory === category ? "nav-link active" : "nav-link"

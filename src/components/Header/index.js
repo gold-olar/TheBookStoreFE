@@ -13,7 +13,7 @@ const Header = () => {
               <div className="col-xl-6 col-md-6">
                 <div className="illastrator_png">
                   <Img
-                    style={{ backgroundColor: "grey" }}
+                    // style={{ backgroundColor: "grey" }}
                     src={illustration}
                     alt="headpic"
                   />
