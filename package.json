@@ -10,7 +10,7 @@
     "express": "^4.17.1",
     "express-favicon": "^2.0.1",
     "jsonwebtoken": "^8.5.1",
-    "node-sass": "^4.14.0",
+    "node-sass": "^7.0.0",
     "path": "^0.12.7",
     "react": "^16.13.1",
     "react-cool-img": "^1.1.7",
